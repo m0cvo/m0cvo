@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m0cvo
-- 👀 I’m interested in C#, C++, VB, desktop and Web apps.
-- 🌱 I’m currently learning ASP.NET Core in .net 6.0 (Visual Studio 2022).  I am also nearly at the end of an NCFE course on C#, html, JavaScript, CSS and PHP. Just to update my knowledge and skills set.
+- 👀 I’m interested in C#, C++, VB,.net, ASP.NET desktop and Web apps.
+- 🌱 I’m currently learning ASP.NET Core in .net 6.0 (Visual Studio 2022) in order to update my knowledge from .net 5 (VS2019).
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me m0cvo@yahoo.co.uk
 
