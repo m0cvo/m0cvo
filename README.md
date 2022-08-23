@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @m0cvo
 - 👀 I’m interested in C#, C++, VB,.net, ASP.NET desktop and Web apps.
-- 🌱I have recently been developing SQL database apps in asp.net 6.0 MVC
+- 🌱 I have recently been developing SQL database apps in asp.net 6.0 MVC
+-       I am now learning to use the new .NET MAUI from Visual Studio for true cross platform apps.
 - 💞️ I’m looking to move into full time work as a C#/.net developer
 - 📫 How to reach me m0cvo@yahoo.co.uk
 -     I am also open to freelance work in C#/.NET and web design.
